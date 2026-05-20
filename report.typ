@@ -62,23 +62,6 @@
   #text(size: 30pt, weight: "bold")[《高级程序设计与实践》]  \
   
   #text(size: 26pt, weight: "bold")[万年历程序设计说明]
-  #v(4cm)
-  /*#{
-  
-  set text(size: 20pt, weight: "bold")
-  
-  table(
-    inset: 7pt,
-    columns: 2,
-    stroke: none,
-    [班级：],[自动化5班],
-    [学号：],[202500171246],
-    [姓名：],[佘书宇],
-
-  )}
-*/ 
-  
-  
 ]
 #pagebreak()
 
